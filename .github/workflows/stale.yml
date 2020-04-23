@@ -1,0 +1,16 @@
+name: Ronzone Deals "My Own Boss", is Advertising, Marketing,and Sales site. My Own Boss, part of it is the part that gives you info on being "Your Own Boss".
+on: The Binning Of It
+  schedule: everyday on social media, google, and YouTube, atleast 16 times a day.
+  - cron: "$10-$16 * * *"Cash.App/$Ronzonedealsm20"
+
+jobs:Advertising,Marketing,Sales, and making videos to post, and leadership.
+  stale:UA-155861286-1/myownbosszone $0 $0
+
+    runs-on: ubuntu-lates
+    - uses: actions/stale@v1
+      with:
+        repo-token: $10-$16{{ secrets.Cash.App/$Ronzonedealsm20 }}
+        stale-issue-message: 'Ronzone Deals "My Own Boss",will always have Great Deals for and awsome was to make money and be a BOSS. '
+        stale-pr-message: 'great choice, tune out everything around you and pay attension to what's on in front of your eyes.'
+        stale-issue-label: 'My Own Boss Zone'
+        stale-pr-label: 'Thanks For Make A Boss Choice  '
